@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "atmel-avr-xminis:avr:atmega328p_xplained_mini",
+    "name": "Atmel atmega328p Xplained mini",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
